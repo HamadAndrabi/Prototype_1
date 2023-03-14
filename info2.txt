@@ -1,0 +1,2 @@
+"content for file info3" 
+"Hello"
